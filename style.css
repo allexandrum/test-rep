@@ -1,0 +1,14 @@
+.culoarea {
+    color: aqua;
+    background-color: blueviolet;
+    width: 333px;
+    font-weight: 900;
+    margin-top: 100px;
+    border: solid 10px blue;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+
+}
